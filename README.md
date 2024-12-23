@@ -52,6 +52,7 @@ I’m a full-stack developer and AI enthusiast who loves building things from sc
   <img align="left" alt="Tailwind CSS" width="35px" style="padding-right:15px;" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/tailwindcss/tailwindcss-original.svg">
 </div>
 
+
 <br/> <br/>
 
 ---  
